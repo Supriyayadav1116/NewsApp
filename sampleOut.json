@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "medical-news-today",
+                "name": "Medical News Today"
+            },
+            "author": "Robby Berman",
+            "title": "Researchers investigate what causes psoriasis and how it spreads",
+            "description": "A recent study used a novel method known as \"spatial transcriptomics\" to explore what causes psoriasis. Researchers found that the genetic changes associated with psoriasis skin lesions also appear in healthy skin elsewhere in the body.",
+            "url": "http://www.medicalnewstoday.com/articles/researchers-investigate-what-causes-psoriasis-and-how-it-spreads",
+            "urlToImage": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2023/06/psoriasis_severity_GettyImages-1450296520_Thumb.jpg",
+            "publishedAt": "2023-06-02T20:30:00Z",
+            "content": "<ul><li>Psoriasis is an uncomfortable inflammatory skin condition that may lead to other health conditions, most commonly psoriatic arthritis.</li><li>A recent study used a novel investigative method… [+6083 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": null,
+            "title": "US life expectancy problem is ‘bigger than we ever thought,’ report finds",
+            "description": "A new study found the country has been at a life expectancy disadvantage since the 1950s, with more than 50 countries surpassing the U.S.",
+            "url": "https://www.usatoday.com/story/news/health/2023/06/02/us-life-expectancy/70272442007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/presto/2022/08/30/USAT/b96a6db3-cc19-4f25-9c3c-a415460db3b8-AP_Life_Expectancy-US.JPG?crop=4814,2708,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2023-06-02T16:15:08+00:00",
+            "content": "The countrys life expectancy problem gained renewed attention in recent years during the COVID-19 pandemic after seeing the largest drop since World War II.\r\nAs U.S. life expectancy continues to plum… [+4887 chars]"
+        },
+        {
+            "source": {
+                "id": "medical-news-today",
+                "name": "Medical News Today"
+            },
+            "author": "Katharine Lang",
+            "title": "Heart attack may speed up cognitive decline, study finds",
+            "description": "Researchers have found that people who have had a heart attack experience a faster rate of cognitive decline than those who have not.",
+            "url": "http://www.medicalnewstoday.com/articles/heart-attack-may-speed-up-cognitive-decline-study-finds",
+            "urlToImage": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2023/06/winding-watch-Cognitive-decline-732x549-thumbnail.jpg",
+            "publishedAt": "2023-06-02T11:00:00Z",
+            "content": "<ul><li>In the United States, someone has a heart attack every 40 seconds.</li><li>Survival rates have improved greatly over the past few years; now almost 90%\r\n of people who experience a heart atta… [+6502 chars]"
+        },
+        {
+            "source": {
+                "id": "hacker-news",
+                "name": "Hacker News"
+            },
+            "author": "Seth Michael Larson",
+            "title": "Tests aren’t enough: Case study after adding type hints to urllib3",
+            "description": "Since Python 3.5 was released in 2015 including PEP 484 and the typing module type hints have grown from a nice-to-have to an expectation for popular packages.  To fulfill this expectation our team...",
+            "url": "https://sethmlarson.dev/blog/2021-10-18/tests-arent-enough-case-study-after-adding-types-to-urllib3",
+            "urlToImage": "http://sethmlarson.dev/static/avatar.jpeg",
+            "publishedAt": "2021-10-18T16:52:18.1226466Z",
+            "content": "Since Python 3.5 was released in 2015 including PEP 484 and the typing module type hints have grown from a nice-to-have to an expectation for popular packages. To fulfill this expectation our team ha… [+11991 chars]"
+        }
+    ]
+}
